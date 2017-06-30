@@ -1,9 +1,7 @@
 //
 //  NativeKeychainTests.swift
-//  IdentityForce
 //
 //  Created by Stephen Wong on 1/26/17.
-//  Copyright © 2017 IdentityForce. All rights reserved.
 //
 
 import XCTest

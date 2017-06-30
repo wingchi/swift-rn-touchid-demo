@@ -1,9 +1,7 @@
 //
 //  NativeKeychainBridge.m
-//  IdentityForce
 //
 //  Created by Stephen Wong on 1/24/17.
-//  Copyright © 2017 IdentityForce. All rights reserved.
 //
 
 #import <React/RCTBridgeModule.h>

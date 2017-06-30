@@ -1,9 +1,7 @@
 //
 //  NativeKeychain.swift
-//  IdentityForce
 //
 //  Created by Stephen Wong on 1/23/17.
-//  Copyright © 2017 IdentityForce. All rights reserved.
 //
 
 import UIKit

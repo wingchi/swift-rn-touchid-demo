@@ -3,7 +3,6 @@
 //  TouchIdDemo
 //
 //  Created by Stephen Wong on 6/28/17.
-//  Copyright © 2017 Facebook. All rights reserved.
 //
 
 import UIKit
